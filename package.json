@@ -1,0 +1,18 @@
+{
+    "name": "threejs-flamingo",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "parcel src/index.html --port 3000",
+        "build": "parcel build src/index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "auto-bind": "^5.0.1",
+        "parcel": "^2.2.1",
+        "three": "^0.137.5"
+    }
+}
